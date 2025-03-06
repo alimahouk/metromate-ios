@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12D78" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="App" representedClassName="App" syncable="YES">
+        <attribute name="cardBalance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cardNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cardType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="homeStation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rideCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="runCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCashSpent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalTimeSpent" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="App" positionX="160" positionY="192" width="128" height="165"/>
+    </elements>
+</model>
