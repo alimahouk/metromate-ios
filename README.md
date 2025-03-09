@@ -39,4 +39,8 @@ Despite there being no publicly-accessible source of train timings, it was accom
 
 ## License
 
-This project is licensed under the terms found in the LICENSE file in the root directory.
+This project is licensed under the terms found in the LICENSE file.
+
+## Author
+
+Created by Ali Mahouk in 2013.
